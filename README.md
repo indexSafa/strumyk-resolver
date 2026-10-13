@@ -1,0 +1,1 @@
+# strumyk-resolver
